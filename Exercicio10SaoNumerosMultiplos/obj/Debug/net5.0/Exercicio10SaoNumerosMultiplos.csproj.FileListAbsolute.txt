@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio10SaoNumerosMultiplos\bin\Debug\net5.0\Exercicio10SaoNumerosMultiplos.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio10SaoNumerosMultiplos\bin\Debug\net5.0\Exercicio10SaoNumerosMultiplos.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio10SaoNumerosMultiplos\bin\Debug\net5.0\Exercicio10SaoNumerosMultiplos.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio10SaoNumerosMultiplos\bin\Debug\net5.0\Exercicio10SaoNumerosMultiplos.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio10SaoNumerosMultiplos\bin\Debug\net5.0\Exercicio10SaoNumerosMultiplos.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio10SaoNumerosMultiplos\bin\Debug\net5.0\ref\Exercicio10SaoNumerosMultiplos.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio10SaoNumerosMultiplos\bin\Debug\net5.0\Exercicio10SaoNumerosMultiplos.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio10SaoNumerosMultiplos\obj\Debug\net5.0\Exercicio10SaoNumerosMultiplos.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio10SaoNumerosMultiplos\obj\Debug\net5.0\Exercicio10SaoNumerosMultiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio10SaoNumerosMultiplos\obj\Debug\net5.0\Exercicio10SaoNumerosMultiplos.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio10SaoNumerosMultiplos\obj\Debug\net5.0\Exercicio10SaoNumerosMultiplos.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio10SaoNumerosMultiplos\obj\Debug\net5.0\Exercicio10SaoNumerosMultiplos.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio10SaoNumerosMultiplos\obj\Debug\net5.0\Exercicio10SaoNumerosMultiplos.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio10SaoNumerosMultiplos\obj\Debug\net5.0\ref\Exercicio10SaoNumerosMultiplos.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio10SaoNumerosMultiplos\obj\Debug\net5.0\Exercicio10SaoNumerosMultiplos.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio10SaoNumerosMultiplos\obj\Debug\net5.0\Exercicio10SaoNumerosMultiplos.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio12PedidoLancheQuantidadeID\obj\Debug\net5.0\Exercicio12PedidoLancheQuantidadeID.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio12PedidoLancheQuantidadeID\obj\Debug\net5.0\Exercicio12PedidoLancheQuantidadeID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio12PedidoLancheQuantidadeID\obj\Debug\net5.0\Exercicio12PedidoLancheQuantidadeID.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio12PedidoLancheQuantidadeID\obj\Debug\net5.0\Exercicio12PedidoLancheQuantidadeID.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio12PedidoLancheQuantidadeID\obj\Debug\net5.0\Exercicio12PedidoLancheQuantidadeID.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio12PedidoLancheQuantidadeID\bin\Debug\net5.0\Exercicio12PedidoLancheQuantidadeID.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio12PedidoLancheQuantidadeID\bin\Debug\net5.0\Exercicio12PedidoLancheQuantidadeID.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio12PedidoLancheQuantidadeID\bin\Debug\net5.0\Exercicio12PedidoLancheQuantidadeID.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio12PedidoLancheQuantidadeID\bin\Debug\net5.0\Exercicio12PedidoLancheQuantidadeID.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio12PedidoLancheQuantidadeID\bin\Debug\net5.0\Exercicio12PedidoLancheQuantidadeID.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio12PedidoLancheQuantidadeID\bin\Debug\net5.0\ref\Exercicio12PedidoLancheQuantidadeID.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio12PedidoLancheQuantidadeID\bin\Debug\net5.0\Exercicio12PedidoLancheQuantidadeID.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio12PedidoLancheQuantidadeID\obj\Debug\net5.0\Exercicio12PedidoLancheQuantidadeID.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio12PedidoLancheQuantidadeID\obj\Debug\net5.0\ref\Exercicio12PedidoLancheQuantidadeID.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio12PedidoLancheQuantidadeID\obj\Debug\net5.0\Exercicio12PedidoLancheQuantidadeID.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio12PedidoLancheQuantidadeID\obj\Debug\net5.0\Exercicio12PedidoLancheQuantidadeID.genruntimeconfig.cache

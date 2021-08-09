@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio26CalcularAreaTrianguloSemOO\bin\Debug\net5.0\Exercicio26CalcularAreaTrianguloSemOO.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio26CalcularAreaTrianguloSemOO\bin\Debug\net5.0\Exercicio26CalcularAreaTrianguloSemOO.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio26CalcularAreaTrianguloSemOO\bin\Debug\net5.0\Exercicio26CalcularAreaTrianguloSemOO.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio26CalcularAreaTrianguloSemOO\bin\Debug\net5.0\Exercicio26CalcularAreaTrianguloSemOO.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio26CalcularAreaTrianguloSemOO\bin\Debug\net5.0\Exercicio26CalcularAreaTrianguloSemOO.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio26CalcularAreaTrianguloSemOO\bin\Debug\net5.0\ref\Exercicio26CalcularAreaTrianguloSemOO.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio26CalcularAreaTrianguloSemOO\bin\Debug\net5.0\Exercicio26CalcularAreaTrianguloSemOO.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio26CalcularAreaTrianguloSemOO\obj\Debug\net5.0\Exercicio26CalcularAreaTrianguloSemOO.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio26CalcularAreaTrianguloSemOO\obj\Debug\net5.0\Exercicio26CalcularAreaTrianguloSemOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio26CalcularAreaTrianguloSemOO\obj\Debug\net5.0\Exercicio26CalcularAreaTrianguloSemOO.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio26CalcularAreaTrianguloSemOO\obj\Debug\net5.0\Exercicio26CalcularAreaTrianguloSemOO.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio26CalcularAreaTrianguloSemOO\obj\Debug\net5.0\Exercicio26CalcularAreaTrianguloSemOO.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio26CalcularAreaTrianguloSemOO\obj\Debug\net5.0\Exercicio26CalcularAreaTrianguloSemOO.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio26CalcularAreaTrianguloSemOO\obj\Debug\net5.0\ref\Exercicio26CalcularAreaTrianguloSemOO.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio26CalcularAreaTrianguloSemOO\obj\Debug\net5.0\Exercicio26CalcularAreaTrianguloSemOO.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio26CalcularAreaTrianguloSemOO\obj\Debug\net5.0\Exercicio26CalcularAreaTrianguloSemOO.genruntimeconfig.cache

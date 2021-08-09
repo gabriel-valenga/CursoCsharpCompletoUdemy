@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio35ConversorMoedaDolar\bin\Debug\net5.0\Exercicio35ConversorMoedaDolar.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio35ConversorMoedaDolar\bin\Debug\net5.0\Exercicio35ConversorMoedaDolar.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio35ConversorMoedaDolar\bin\Debug\net5.0\Exercicio35ConversorMoedaDolar.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio35ConversorMoedaDolar\bin\Debug\net5.0\Exercicio35ConversorMoedaDolar.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio35ConversorMoedaDolar\bin\Debug\net5.0\Exercicio35ConversorMoedaDolar.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio35ConversorMoedaDolar\bin\Debug\net5.0\ref\Exercicio35ConversorMoedaDolar.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio35ConversorMoedaDolar\bin\Debug\net5.0\Exercicio35ConversorMoedaDolar.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio35ConversorMoedaDolar\obj\Debug\net5.0\Exercicio35ConversorMoedaDolar.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio35ConversorMoedaDolar\obj\Debug\net5.0\Exercicio35ConversorMoedaDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio35ConversorMoedaDolar\obj\Debug\net5.0\Exercicio35ConversorMoedaDolar.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio35ConversorMoedaDolar\obj\Debug\net5.0\Exercicio35ConversorMoedaDolar.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio35ConversorMoedaDolar\obj\Debug\net5.0\Exercicio35ConversorMoedaDolar.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio35ConversorMoedaDolar\obj\Debug\net5.0\Exercicio35ConversorMoedaDolar.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio35ConversorMoedaDolar\obj\Debug\net5.0\ref\Exercicio35ConversorMoedaDolar.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio35ConversorMoedaDolar\obj\Debug\net5.0\Exercicio35ConversorMoedaDolar.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio35ConversorMoedaDolar\obj\Debug\net5.0\Exercicio35ConversorMoedaDolar.genruntimeconfig.cache

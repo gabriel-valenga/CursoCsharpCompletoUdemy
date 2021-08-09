@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio14QuadrantesEixoXY\bin\Debug\net5.0\Exercicio14QuadrantesEixoXY.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio14QuadrantesEixoXY\bin\Debug\net5.0\Exercicio14QuadrantesEixoXY.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio14QuadrantesEixoXY\bin\Debug\net5.0\Exercicio14QuadrantesEixoXY.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio14QuadrantesEixoXY\bin\Debug\net5.0\Exercicio14QuadrantesEixoXY.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio14QuadrantesEixoXY\bin\Debug\net5.0\Exercicio14QuadrantesEixoXY.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio14QuadrantesEixoXY\bin\Debug\net5.0\ref\Exercicio14QuadrantesEixoXY.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio14QuadrantesEixoXY\bin\Debug\net5.0\Exercicio14QuadrantesEixoXY.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio14QuadrantesEixoXY\obj\Debug\net5.0\Exercicio14QuadrantesEixoXY.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio14QuadrantesEixoXY\obj\Debug\net5.0\Exercicio14QuadrantesEixoXY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio14QuadrantesEixoXY\obj\Debug\net5.0\Exercicio14QuadrantesEixoXY.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio14QuadrantesEixoXY\obj\Debug\net5.0\Exercicio14QuadrantesEixoXY.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio14QuadrantesEixoXY\obj\Debug\net5.0\Exercicio14QuadrantesEixoXY.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio14QuadrantesEixoXY\obj\Debug\net5.0\Exercicio14QuadrantesEixoXY.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio14QuadrantesEixoXY\obj\Debug\net5.0\ref\Exercicio14QuadrantesEixoXY.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio14QuadrantesEixoXY\obj\Debug\net5.0\Exercicio14QuadrantesEixoXY.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio14QuadrantesEixoXY\obj\Debug\net5.0\Exercicio14QuadrantesEixoXY.genruntimeconfig.cache

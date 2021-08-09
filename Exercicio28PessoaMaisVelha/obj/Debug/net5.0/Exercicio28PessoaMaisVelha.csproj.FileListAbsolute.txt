@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio28PessoaMaisVelha\bin\Debug\net5.0\Exercicio28PessoaMaisVelha.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio28PessoaMaisVelha\bin\Debug\net5.0\Exercicio28PessoaMaisVelha.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio28PessoaMaisVelha\bin\Debug\net5.0\Exercicio28PessoaMaisVelha.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio28PessoaMaisVelha\bin\Debug\net5.0\Exercicio28PessoaMaisVelha.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio28PessoaMaisVelha\bin\Debug\net5.0\Exercicio28PessoaMaisVelha.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio28PessoaMaisVelha\bin\Debug\net5.0\ref\Exercicio28PessoaMaisVelha.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio28PessoaMaisVelha\bin\Debug\net5.0\Exercicio28PessoaMaisVelha.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio28PessoaMaisVelha\obj\Debug\net5.0\Exercicio28PessoaMaisVelha.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio28PessoaMaisVelha\obj\Debug\net5.0\Exercicio28PessoaMaisVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio28PessoaMaisVelha\obj\Debug\net5.0\Exercicio28PessoaMaisVelha.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio28PessoaMaisVelha\obj\Debug\net5.0\Exercicio28PessoaMaisVelha.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio28PessoaMaisVelha\obj\Debug\net5.0\Exercicio28PessoaMaisVelha.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio28PessoaMaisVelha\obj\Debug\net5.0\Exercicio28PessoaMaisVelha.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio28PessoaMaisVelha\obj\Debug\net5.0\ref\Exercicio28PessoaMaisVelha.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio28PessoaMaisVelha\obj\Debug\net5.0\Exercicio28PessoaMaisVelha.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio28PessoaMaisVelha\obj\Debug\net5.0\Exercicio28PessoaMaisVelha.genruntimeconfig.cache

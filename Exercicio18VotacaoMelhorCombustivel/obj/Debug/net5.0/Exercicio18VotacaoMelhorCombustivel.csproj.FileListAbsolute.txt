@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio18VotacaoMelhorCombustivel\bin\Debug\net5.0\Exercicio18VotacaoMelhorCombustivel.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio18VotacaoMelhorCombustivel\bin\Debug\net5.0\Exercicio18VotacaoMelhorCombustivel.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio18VotacaoMelhorCombustivel\bin\Debug\net5.0\Exercicio18VotacaoMelhorCombustivel.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio18VotacaoMelhorCombustivel\bin\Debug\net5.0\Exercicio18VotacaoMelhorCombustivel.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio18VotacaoMelhorCombustivel\bin\Debug\net5.0\Exercicio18VotacaoMelhorCombustivel.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio18VotacaoMelhorCombustivel\bin\Debug\net5.0\ref\Exercicio18VotacaoMelhorCombustivel.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio18VotacaoMelhorCombustivel\bin\Debug\net5.0\Exercicio18VotacaoMelhorCombustivel.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio18VotacaoMelhorCombustivel\obj\Debug\net5.0\Exercicio18VotacaoMelhorCombustivel.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio18VotacaoMelhorCombustivel\obj\Debug\net5.0\Exercicio18VotacaoMelhorCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio18VotacaoMelhorCombustivel\obj\Debug\net5.0\Exercicio18VotacaoMelhorCombustivel.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio18VotacaoMelhorCombustivel\obj\Debug\net5.0\Exercicio18VotacaoMelhorCombustivel.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio18VotacaoMelhorCombustivel\obj\Debug\net5.0\Exercicio18VotacaoMelhorCombustivel.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio18VotacaoMelhorCombustivel\obj\Debug\net5.0\Exercicio18VotacaoMelhorCombustivel.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio18VotacaoMelhorCombustivel\obj\Debug\net5.0\ref\Exercicio18VotacaoMelhorCombustivel.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio18VotacaoMelhorCombustivel\obj\Debug\net5.0\Exercicio18VotacaoMelhorCombustivel.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio18VotacaoMelhorCombustivel\obj\Debug\net5.0\Exercicio18VotacaoMelhorCombustivel.genruntimeconfig.cache

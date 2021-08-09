@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio33LerNotasAlunoTrimestre\obj\Debug\net5.0\Exercicio33LerNotasAlunoTrimestre.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio33LerNotasAlunoTrimestre\obj\Debug\net5.0\Exercicio33LerNotasAlunoTrimestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio33LerNotasAlunoTrimestre\obj\Debug\net5.0\Exercicio33LerNotasAlunoTrimestre.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio33LerNotasAlunoTrimestre\obj\Debug\net5.0\Exercicio33LerNotasAlunoTrimestre.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio33LerNotasAlunoTrimestre\obj\Debug\net5.0\Exercicio33LerNotasAlunoTrimestre.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio33LerNotasAlunoTrimestre\bin\Debug\net5.0\Exercicio33LerNotasAlunoTrimestre.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio33LerNotasAlunoTrimestre\bin\Debug\net5.0\Exercicio33LerNotasAlunoTrimestre.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio33LerNotasAlunoTrimestre\bin\Debug\net5.0\Exercicio33LerNotasAlunoTrimestre.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio33LerNotasAlunoTrimestre\bin\Debug\net5.0\Exercicio33LerNotasAlunoTrimestre.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio33LerNotasAlunoTrimestre\bin\Debug\net5.0\Exercicio33LerNotasAlunoTrimestre.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio33LerNotasAlunoTrimestre\bin\Debug\net5.0\ref\Exercicio33LerNotasAlunoTrimestre.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio33LerNotasAlunoTrimestre\bin\Debug\net5.0\Exercicio33LerNotasAlunoTrimestre.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio33LerNotasAlunoTrimestre\obj\Debug\net5.0\Exercicio33LerNotasAlunoTrimestre.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio33LerNotasAlunoTrimestre\obj\Debug\net5.0\ref\Exercicio33LerNotasAlunoTrimestre.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio33LerNotasAlunoTrimestre\obj\Debug\net5.0\Exercicio33LerNotasAlunoTrimestre.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio33LerNotasAlunoTrimestre\obj\Debug\net5.0\Exercicio33LerNotasAlunoTrimestre.genruntimeconfig.cache

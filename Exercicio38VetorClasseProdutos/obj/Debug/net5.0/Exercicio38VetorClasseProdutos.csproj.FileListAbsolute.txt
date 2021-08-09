@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio38VetorClasseProdutos\obj\Debug\net5.0\Exercicio38VetorClasseProdutos.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio38VetorClasseProdutos\obj\Debug\net5.0\Exercicio38VetorClasseProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio38VetorClasseProdutos\obj\Debug\net5.0\Exercicio38VetorClasseProdutos.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio38VetorClasseProdutos\obj\Debug\net5.0\Exercicio38VetorClasseProdutos.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio38VetorClasseProdutos\obj\Debug\net5.0\Exercicio38VetorClasseProdutos.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio38VetorClasseProdutos\bin\Debug\net5.0\Exercicio38VetorClasseProdutos.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio38VetorClasseProdutos\bin\Debug\net5.0\Exercicio38VetorClasseProdutos.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio38VetorClasseProdutos\bin\Debug\net5.0\Exercicio38VetorClasseProdutos.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio38VetorClasseProdutos\bin\Debug\net5.0\Exercicio38VetorClasseProdutos.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio38VetorClasseProdutos\bin\Debug\net5.0\Exercicio38VetorClasseProdutos.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio38VetorClasseProdutos\bin\Debug\net5.0\ref\Exercicio38VetorClasseProdutos.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio38VetorClasseProdutos\bin\Debug\net5.0\Exercicio38VetorClasseProdutos.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio38VetorClasseProdutos\obj\Debug\net5.0\Exercicio38VetorClasseProdutos.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio38VetorClasseProdutos\obj\Debug\net5.0\ref\Exercicio38VetorClasseProdutos.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio38VetorClasseProdutos\obj\Debug\net5.0\Exercicio38VetorClasseProdutos.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio38VetorClasseProdutos\obj\Debug\net5.0\Exercicio38VetorClasseProdutos.genruntimeconfig.cache

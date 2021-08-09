@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio36DepositoESaqueContaBancariaOO\obj\Debug\net5.0\Exercicio36DepositoESaqueContaBancariaOO.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio36DepositoESaqueContaBancariaOO\obj\Debug\net5.0\Exercicio36DepositoESaqueContaBancariaOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio36DepositoESaqueContaBancariaOO\obj\Debug\net5.0\Exercicio36DepositoESaqueContaBancariaOO.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio36DepositoESaqueContaBancariaOO\obj\Debug\net5.0\Exercicio36DepositoESaqueContaBancariaOO.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio36DepositoESaqueContaBancariaOO\obj\Debug\net5.0\Exercicio36DepositoESaqueContaBancariaOO.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio36DepositoESaqueContaBancariaOO\bin\Debug\net5.0\Exercicio36DepositoESaqueContaBancariaOO.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio36DepositoESaqueContaBancariaOO\bin\Debug\net5.0\Exercicio36DepositoESaqueContaBancariaOO.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio36DepositoESaqueContaBancariaOO\bin\Debug\net5.0\Exercicio36DepositoESaqueContaBancariaOO.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio36DepositoESaqueContaBancariaOO\bin\Debug\net5.0\Exercicio36DepositoESaqueContaBancariaOO.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio36DepositoESaqueContaBancariaOO\bin\Debug\net5.0\Exercicio36DepositoESaqueContaBancariaOO.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio36DepositoESaqueContaBancariaOO\bin\Debug\net5.0\ref\Exercicio36DepositoESaqueContaBancariaOO.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio36DepositoESaqueContaBancariaOO\bin\Debug\net5.0\Exercicio36DepositoESaqueContaBancariaOO.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio36DepositoESaqueContaBancariaOO\obj\Debug\net5.0\Exercicio36DepositoESaqueContaBancariaOO.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio36DepositoESaqueContaBancariaOO\obj\Debug\net5.0\ref\Exercicio36DepositoESaqueContaBancariaOO.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio36DepositoESaqueContaBancariaOO\obj\Debug\net5.0\Exercicio36DepositoESaqueContaBancariaOO.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio36DepositoESaqueContaBancariaOO\obj\Debug\net5.0\Exercicio36DepositoESaqueContaBancariaOO.genruntimeconfig.cache

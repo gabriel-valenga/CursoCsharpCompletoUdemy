@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio20LerNumerosInOutIntervalo\bin\Debug\net5.0\Exercicio20LerNumerosInOutIntervalo.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio20LerNumerosInOutIntervalo\bin\Debug\net5.0\Exercicio20LerNumerosInOutIntervalo.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio20LerNumerosInOutIntervalo\bin\Debug\net5.0\Exercicio20LerNumerosInOutIntervalo.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio20LerNumerosInOutIntervalo\bin\Debug\net5.0\Exercicio20LerNumerosInOutIntervalo.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio20LerNumerosInOutIntervalo\bin\Debug\net5.0\Exercicio20LerNumerosInOutIntervalo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio20LerNumerosInOutIntervalo\bin\Debug\net5.0\ref\Exercicio20LerNumerosInOutIntervalo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio20LerNumerosInOutIntervalo\bin\Debug\net5.0\Exercicio20LerNumerosInOutIntervalo.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio20LerNumerosInOutIntervalo\obj\Debug\net5.0\Exercicio20LerNumerosInOutIntervalo.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio20LerNumerosInOutIntervalo\obj\Debug\net5.0\Exercicio20LerNumerosInOutIntervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio20LerNumerosInOutIntervalo\obj\Debug\net5.0\Exercicio20LerNumerosInOutIntervalo.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio20LerNumerosInOutIntervalo\obj\Debug\net5.0\Exercicio20LerNumerosInOutIntervalo.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio20LerNumerosInOutIntervalo\obj\Debug\net5.0\Exercicio20LerNumerosInOutIntervalo.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio20LerNumerosInOutIntervalo\obj\Debug\net5.0\Exercicio20LerNumerosInOutIntervalo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio20LerNumerosInOutIntervalo\obj\Debug\net5.0\ref\Exercicio20LerNumerosInOutIntervalo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio20LerNumerosInOutIntervalo\obj\Debug\net5.0\Exercicio20LerNumerosInOutIntervalo.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio20LerNumerosInOutIntervalo\obj\Debug\net5.0\Exercicio20LerNumerosInOutIntervalo.genruntimeconfig.cache

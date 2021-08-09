@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio13VerificarSeNumeroEstaNoIntervalo\bin\Debug\net5.0\Exercicio13VerificarSeNumeroEstaNoIntervalo.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio13VerificarSeNumeroEstaNoIntervalo\bin\Debug\net5.0\Exercicio13VerificarSeNumeroEstaNoIntervalo.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio13VerificarSeNumeroEstaNoIntervalo\bin\Debug\net5.0\Exercicio13VerificarSeNumeroEstaNoIntervalo.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio13VerificarSeNumeroEstaNoIntervalo\bin\Debug\net5.0\Exercicio13VerificarSeNumeroEstaNoIntervalo.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio13VerificarSeNumeroEstaNoIntervalo\bin\Debug\net5.0\Exercicio13VerificarSeNumeroEstaNoIntervalo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio13VerificarSeNumeroEstaNoIntervalo\bin\Debug\net5.0\ref\Exercicio13VerificarSeNumeroEstaNoIntervalo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio13VerificarSeNumeroEstaNoIntervalo\bin\Debug\net5.0\Exercicio13VerificarSeNumeroEstaNoIntervalo.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio13VerificarSeNumeroEstaNoIntervalo\obj\Debug\net5.0\Exercicio13VerificarSeNumeroEstaNoIntervalo.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio13VerificarSeNumeroEstaNoIntervalo\obj\Debug\net5.0\Exercicio13VerificarSeNumeroEstaNoIntervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio13VerificarSeNumeroEstaNoIntervalo\obj\Debug\net5.0\Exercicio13VerificarSeNumeroEstaNoIntervalo.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio13VerificarSeNumeroEstaNoIntervalo\obj\Debug\net5.0\Exercicio13VerificarSeNumeroEstaNoIntervalo.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio13VerificarSeNumeroEstaNoIntervalo\obj\Debug\net5.0\Exercicio13VerificarSeNumeroEstaNoIntervalo.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio13VerificarSeNumeroEstaNoIntervalo\obj\Debug\net5.0\Exercicio13VerificarSeNumeroEstaNoIntervalo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio13VerificarSeNumeroEstaNoIntervalo\obj\Debug\net5.0\ref\Exercicio13VerificarSeNumeroEstaNoIntervalo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio13VerificarSeNumeroEstaNoIntervalo\obj\Debug\net5.0\Exercicio13VerificarSeNumeroEstaNoIntervalo.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio13VerificarSeNumeroEstaNoIntervalo\obj\Debug\net5.0\Exercicio13VerificarSeNumeroEstaNoIntervalo.genruntimeconfig.cache

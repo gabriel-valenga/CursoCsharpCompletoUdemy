@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio22DividirNNumeros\obj\Debug\net5.0\Exercicio22DividirNNumeros.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio22DividirNNumeros\obj\Debug\net5.0\Exercicio22DividirNNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio22DividirNNumeros\obj\Debug\net5.0\Exercicio22DividirNNumeros.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio22DividirNNumeros\obj\Debug\net5.0\Exercicio22DividirNNumeros.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio22DividirNNumeros\obj\Debug\net5.0\Exercicio22DividirNNumeros.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio22DividirNNumeros\bin\Debug\net5.0\Exercicio22DividirNNumeros.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio22DividirNNumeros\bin\Debug\net5.0\Exercicio22DividirNNumeros.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio22DividirNNumeros\bin\Debug\net5.0\Exercicio22DividirNNumeros.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio22DividirNNumeros\bin\Debug\net5.0\Exercicio22DividirNNumeros.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio22DividirNNumeros\bin\Debug\net5.0\Exercicio22DividirNNumeros.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio22DividirNNumeros\bin\Debug\net5.0\ref\Exercicio22DividirNNumeros.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio22DividirNNumeros\bin\Debug\net5.0\Exercicio22DividirNNumeros.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio22DividirNNumeros\obj\Debug\net5.0\Exercicio22DividirNNumeros.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio22DividirNNumeros\obj\Debug\net5.0\ref\Exercicio22DividirNNumeros.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio22DividirNNumeros\obj\Debug\net5.0\Exercicio22DividirNNumeros.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio22DividirNNumeros\obj\Debug\net5.0\Exercicio22DividirNNumeros.genruntimeconfig.cache

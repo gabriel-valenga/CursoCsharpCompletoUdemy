@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio3RaioDoCirculo\bin\Debug\net5.0\Exercicio3RaioDoCirculo.exe
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio3RaioDoCirculo\bin\Debug\net5.0\Exercicio3RaioDoCirculo.deps.json
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio3RaioDoCirculo\bin\Debug\net5.0\Exercicio3RaioDoCirculo.runtimeconfig.json
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio3RaioDoCirculo\bin\Debug\net5.0\Exercicio3RaioDoCirculo.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio3RaioDoCirculo\bin\Debug\net5.0\Exercicio3RaioDoCirculo.dll
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio3RaioDoCirculo\bin\Debug\net5.0\ref\Exercicio3RaioDoCirculo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio3RaioDoCirculo\bin\Debug\net5.0\Exercicio3RaioDoCirculo.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio3RaioDoCirculo\obj\Debug\net5.0\Exercicio3RaioDoCirculo.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio3RaioDoCirculo\obj\Debug\net5.0\Exercicio3RaioDoCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio3RaioDoCirculo\obj\Debug\net5.0\Exercicio3RaioDoCirculo.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio3RaioDoCirculo\obj\Debug\net5.0\Exercicio3RaioDoCirculo.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio3RaioDoCirculo\obj\Debug\net5.0\Exercicio3RaioDoCirculo.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio3RaioDoCirculo\obj\Debug\net5.0\Exercicio3RaioDoCirculo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio3RaioDoCirculo\obj\Debug\net5.0\ref\Exercicio3RaioDoCirculo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio3RaioDoCirculo\obj\Debug\net5.0\Exercicio3RaioDoCirculo.pdb
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio3RaioDoCirculo\obj\Debug\net5.0\Exercicio3RaioDoCirculo.genruntimeconfig.cache

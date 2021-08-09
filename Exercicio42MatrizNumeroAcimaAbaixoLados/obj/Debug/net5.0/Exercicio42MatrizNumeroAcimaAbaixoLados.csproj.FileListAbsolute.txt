@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio42MatrizNumeroAcimaAbaixoLados\bin\Debug\net5.0\Exercicio42MatrizNumeroAcimaAbaixoLados.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio42MatrizNumeroAcimaAbaixoLados\bin\Debug\net5.0\Exercicio42MatrizNumeroAcimaAbaixoLados.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio42MatrizNumeroAcimaAbaixoLados\bin\Debug\net5.0\Exercicio42MatrizNumeroAcimaAbaixoLados.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio42MatrizNumeroAcimaAbaixoLados\bin\Debug\net5.0\Exercicio42MatrizNumeroAcimaAbaixoLados.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio42MatrizNumeroAcimaAbaixoLados\bin\Debug\net5.0\Exercicio42MatrizNumeroAcimaAbaixoLados.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio42MatrizNumeroAcimaAbaixoLados\bin\Debug\net5.0\ref\Exercicio42MatrizNumeroAcimaAbaixoLados.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio42MatrizNumeroAcimaAbaixoLados\bin\Debug\net5.0\Exercicio42MatrizNumeroAcimaAbaixoLados.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio42MatrizNumeroAcimaAbaixoLados\obj\Debug\net5.0\Exercicio42MatrizNumeroAcimaAbaixoLados.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio42MatrizNumeroAcimaAbaixoLados\obj\Debug\net5.0\Exercicio42MatrizNumeroAcimaAbaixoLados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio42MatrizNumeroAcimaAbaixoLados\obj\Debug\net5.0\Exercicio42MatrizNumeroAcimaAbaixoLados.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio42MatrizNumeroAcimaAbaixoLados\obj\Debug\net5.0\Exercicio42MatrizNumeroAcimaAbaixoLados.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio42MatrizNumeroAcimaAbaixoLados\obj\Debug\net5.0\Exercicio42MatrizNumeroAcimaAbaixoLados.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio42MatrizNumeroAcimaAbaixoLados\obj\Debug\net5.0\Exercicio42MatrizNumeroAcimaAbaixoLados.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio42MatrizNumeroAcimaAbaixoLados\obj\Debug\net5.0\ref\Exercicio42MatrizNumeroAcimaAbaixoLados.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio42MatrizNumeroAcimaAbaixoLados\obj\Debug\net5.0\Exercicio42MatrizNumeroAcimaAbaixoLados.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio42MatrizNumeroAcimaAbaixoLados\obj\Debug\net5.0\Exercicio42MatrizNumeroAcimaAbaixoLados.genruntimeconfig.cache

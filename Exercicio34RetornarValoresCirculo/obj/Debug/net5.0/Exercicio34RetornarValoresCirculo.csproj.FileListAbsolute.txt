@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio34RetornarValoresCirculo\obj\Debug\net5.0\Exercicio34RetornarValoresCirculo.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio34RetornarValoresCirculo\obj\Debug\net5.0\Exercicio34RetornarValoresCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio34RetornarValoresCirculo\obj\Debug\net5.0\Exercicio34RetornarValoresCirculo.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio34RetornarValoresCirculo\obj\Debug\net5.0\Exercicio34RetornarValoresCirculo.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio34RetornarValoresCirculo\obj\Debug\net5.0\Exercicio34RetornarValoresCirculo.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio34RetornarValoresCirculo\bin\Debug\net5.0\Exercicio34RetornarValoresCirculo.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio34RetornarValoresCirculo\bin\Debug\net5.0\Exercicio34RetornarValoresCirculo.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio34RetornarValoresCirculo\bin\Debug\net5.0\Exercicio34RetornarValoresCirculo.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio34RetornarValoresCirculo\bin\Debug\net5.0\Exercicio34RetornarValoresCirculo.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio34RetornarValoresCirculo\bin\Debug\net5.0\Exercicio34RetornarValoresCirculo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio34RetornarValoresCirculo\bin\Debug\net5.0\ref\Exercicio34RetornarValoresCirculo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio34RetornarValoresCirculo\bin\Debug\net5.0\Exercicio34RetornarValoresCirculo.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio34RetornarValoresCirculo\obj\Debug\net5.0\Exercicio34RetornarValoresCirculo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio34RetornarValoresCirculo\obj\Debug\net5.0\ref\Exercicio34RetornarValoresCirculo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio34RetornarValoresCirculo\obj\Debug\net5.0\Exercicio34RetornarValoresCirculo.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio34RetornarValoresCirculo\obj\Debug\net5.0\Exercicio34RetornarValoresCirculo.genruntimeconfig.cache

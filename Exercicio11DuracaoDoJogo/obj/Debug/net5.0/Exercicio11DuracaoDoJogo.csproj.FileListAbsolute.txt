@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio11DuracaoDoJogo\obj\Debug\net5.0\Exercicio11DuracaoDoJogo.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio11DuracaoDoJogo\obj\Debug\net5.0\Exercicio11DuracaoDoJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio11DuracaoDoJogo\obj\Debug\net5.0\Exercicio11DuracaoDoJogo.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio11DuracaoDoJogo\obj\Debug\net5.0\Exercicio11DuracaoDoJogo.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio11DuracaoDoJogo\obj\Debug\net5.0\Exercicio11DuracaoDoJogo.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio11DuracaoDoJogo\bin\Debug\net5.0\Exercicio11DuracaoDoJogo.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio11DuracaoDoJogo\bin\Debug\net5.0\Exercicio11DuracaoDoJogo.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio11DuracaoDoJogo\bin\Debug\net5.0\Exercicio11DuracaoDoJogo.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio11DuracaoDoJogo\bin\Debug\net5.0\Exercicio11DuracaoDoJogo.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio11DuracaoDoJogo\bin\Debug\net5.0\Exercicio11DuracaoDoJogo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio11DuracaoDoJogo\bin\Debug\net5.0\ref\Exercicio11DuracaoDoJogo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio11DuracaoDoJogo\bin\Debug\net5.0\Exercicio11DuracaoDoJogo.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio11DuracaoDoJogo\obj\Debug\net5.0\Exercicio11DuracaoDoJogo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio11DuracaoDoJogo\obj\Debug\net5.0\ref\Exercicio11DuracaoDoJogo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio11DuracaoDoJogo\obj\Debug\net5.0\Exercicio11DuracaoDoJogo.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio11DuracaoDoJogo\obj\Debug\net5.0\Exercicio11DuracaoDoJogo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio37AlturaMediaNPessoas\obj\Debug\net5.0\Exercicio37AlturaMediaNPessoas.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio37AlturaMediaNPessoas\obj\Debug\net5.0\Exercicio37AlturaMediaNPessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio37AlturaMediaNPessoas\obj\Debug\net5.0\Exercicio37AlturaMediaNPessoas.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio37AlturaMediaNPessoas\obj\Debug\net5.0\Exercicio37AlturaMediaNPessoas.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio37AlturaMediaNPessoas\obj\Debug\net5.0\Exercicio37AlturaMediaNPessoas.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio37AlturaMediaNPessoas\bin\Debug\net5.0\Exercicio37AlturaMediaNPessoas.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio37AlturaMediaNPessoas\bin\Debug\net5.0\Exercicio37AlturaMediaNPessoas.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio37AlturaMediaNPessoas\bin\Debug\net5.0\Exercicio37AlturaMediaNPessoas.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio37AlturaMediaNPessoas\bin\Debug\net5.0\Exercicio37AlturaMediaNPessoas.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio37AlturaMediaNPessoas\bin\Debug\net5.0\Exercicio37AlturaMediaNPessoas.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio37AlturaMediaNPessoas\bin\Debug\net5.0\ref\Exercicio37AlturaMediaNPessoas.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio37AlturaMediaNPessoas\bin\Debug\net5.0\Exercicio37AlturaMediaNPessoas.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio37AlturaMediaNPessoas\obj\Debug\net5.0\Exercicio37AlturaMediaNPessoas.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio37AlturaMediaNPessoas\obj\Debug\net5.0\ref\Exercicio37AlturaMediaNPessoas.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio37AlturaMediaNPessoas\obj\Debug\net5.0\Exercicio37AlturaMediaNPessoas.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio37AlturaMediaNPessoas\obj\Debug\net5.0\Exercicio37AlturaMediaNPessoas.genruntimeconfig.cache

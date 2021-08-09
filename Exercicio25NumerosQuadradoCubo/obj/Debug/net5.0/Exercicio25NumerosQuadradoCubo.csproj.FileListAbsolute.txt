@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio25NumerosQuadradoCubo\bin\Debug\net5.0\Exercicio25NumerosQuadradoCubo.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio25NumerosQuadradoCubo\bin\Debug\net5.0\Exercicio25NumerosQuadradoCubo.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio25NumerosQuadradoCubo\bin\Debug\net5.0\Exercicio25NumerosQuadradoCubo.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio25NumerosQuadradoCubo\bin\Debug\net5.0\Exercicio25NumerosQuadradoCubo.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio25NumerosQuadradoCubo\bin\Debug\net5.0\Exercicio25NumerosQuadradoCubo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio25NumerosQuadradoCubo\bin\Debug\net5.0\ref\Exercicio25NumerosQuadradoCubo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio25NumerosQuadradoCubo\bin\Debug\net5.0\Exercicio25NumerosQuadradoCubo.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio25NumerosQuadradoCubo\obj\Debug\net5.0\Exercicio25NumerosQuadradoCubo.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio25NumerosQuadradoCubo\obj\Debug\net5.0\Exercicio25NumerosQuadradoCubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio25NumerosQuadradoCubo\obj\Debug\net5.0\Exercicio25NumerosQuadradoCubo.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio25NumerosQuadradoCubo\obj\Debug\net5.0\Exercicio25NumerosQuadradoCubo.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio25NumerosQuadradoCubo\obj\Debug\net5.0\Exercicio25NumerosQuadradoCubo.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio25NumerosQuadradoCubo\obj\Debug\net5.0\Exercicio25NumerosQuadradoCubo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio25NumerosQuadradoCubo\obj\Debug\net5.0\ref\Exercicio25NumerosQuadradoCubo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio25NumerosQuadradoCubo\obj\Debug\net5.0\Exercicio25NumerosQuadradoCubo.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio25NumerosQuadradoCubo\obj\Debug\net5.0\Exercicio25NumerosQuadradoCubo.genruntimeconfig.cache

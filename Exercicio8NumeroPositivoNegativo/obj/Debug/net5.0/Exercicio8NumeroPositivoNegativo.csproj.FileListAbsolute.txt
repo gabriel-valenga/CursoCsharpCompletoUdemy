@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio8NumeroPositivoNegativo\bin\Debug\net5.0\Exercicio8NumeroPositivoNegativo.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio8NumeroPositivoNegativo\bin\Debug\net5.0\Exercicio8NumeroPositivoNegativo.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio8NumeroPositivoNegativo\bin\Debug\net5.0\Exercicio8NumeroPositivoNegativo.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio8NumeroPositivoNegativo\bin\Debug\net5.0\Exercicio8NumeroPositivoNegativo.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio8NumeroPositivoNegativo\bin\Debug\net5.0\Exercicio8NumeroPositivoNegativo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio8NumeroPositivoNegativo\bin\Debug\net5.0\ref\Exercicio8NumeroPositivoNegativo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio8NumeroPositivoNegativo\bin\Debug\net5.0\Exercicio8NumeroPositivoNegativo.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio8NumeroPositivoNegativo\obj\Debug\net5.0\Exercicio8NumeroPositivoNegativo.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio8NumeroPositivoNegativo\obj\Debug\net5.0\Exercicio8NumeroPositivoNegativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio8NumeroPositivoNegativo\obj\Debug\net5.0\Exercicio8NumeroPositivoNegativo.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio8NumeroPositivoNegativo\obj\Debug\net5.0\Exercicio8NumeroPositivoNegativo.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio8NumeroPositivoNegativo\obj\Debug\net5.0\Exercicio8NumeroPositivoNegativo.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio8NumeroPositivoNegativo\obj\Debug\net5.0\Exercicio8NumeroPositivoNegativo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio8NumeroPositivoNegativo\obj\Debug\net5.0\ref\Exercicio8NumeroPositivoNegativo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio8NumeroPositivoNegativo\obj\Debug\net5.0\Exercicio8NumeroPositivoNegativo.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio8NumeroPositivoNegativo\obj\Debug\net5.0\Exercicio8NumeroPositivoNegativo.genruntimeconfig.cache

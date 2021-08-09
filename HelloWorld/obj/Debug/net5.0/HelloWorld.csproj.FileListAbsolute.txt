@@ -1,0 +1,16 @@
+c:\Projetos\C#\CursoC#Completo2020OO\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+c:\Projetos\C#\CursoC#Completo2020OO\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+c:\Projetos\C#\CursoC#Completo2020OO\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+c:\Projetos\C#\CursoC#Completo2020OO\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+c:\Projetos\C#\CursoC#Completo2020OO\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+c:\Projetos\C#\CursoC#Completo2020OO\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+c:\Projetos\C#\CursoC#Completo2020OO\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+c:\Projetos\C#\CursoC#Completo2020OO\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+c:\Projetos\C#\CursoC#Completo2020OO\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projetos\C#\CursoC#Completo2020OO\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+c:\Projetos\C#\CursoC#Completo2020OO\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+c:\Projetos\C#\CursoC#Completo2020OO\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+c:\Projetos\C#\CursoC#Completo2020OO\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+c:\Projetos\C#\CursoC#Completo2020OO\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+c:\Projetos\C#\CursoC#Completo2020OO\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+c:\Projetos\C#\CursoC#Completo2020OO\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache

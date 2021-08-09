@@ -1,0 +1,16 @@
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio16LerSenhaValida\obj\Debug\net5.0\Exercicio16LerSenhaValida.csproj.AssemblyReference.cache
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio16LerSenhaValida\obj\Debug\net5.0\Exercicio16LerSenhaValida.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio16LerSenhaValida\obj\Debug\net5.0\Exercicio16LerSenhaValida.AssemblyInfoInputs.cache
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio16LerSenhaValida\obj\Debug\net5.0\Exercicio16LerSenhaValida.AssemblyInfo.cs
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio16LerSenhaValida\obj\Debug\net5.0\Exercicio16LerSenhaValida.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio16LerSenhaValida\bin\Debug\net5.0\Exercicio16LerSenhaValida.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio16LerSenhaValida\bin\Debug\net5.0\Exercicio16LerSenhaValida.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio16LerSenhaValida\bin\Debug\net5.0\Exercicio16LerSenhaValida.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio16LerSenhaValida\bin\Debug\net5.0\Exercicio16LerSenhaValida.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio16LerSenhaValida\bin\Debug\net5.0\Exercicio16LerSenhaValida.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio16LerSenhaValida\bin\Debug\net5.0\ref\Exercicio16LerSenhaValida.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio16LerSenhaValida\bin\Debug\net5.0\Exercicio16LerSenhaValida.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio16LerSenhaValida\obj\Debug\net5.0\Exercicio16LerSenhaValida.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio16LerSenhaValida\obj\Debug\net5.0\ref\Exercicio16LerSenhaValida.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio16LerSenhaValida\obj\Debug\net5.0\Exercicio16LerSenhaValida.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio16LerSenhaValida\obj\Debug\net5.0\Exercicio16LerSenhaValida.genruntimeconfig.cache

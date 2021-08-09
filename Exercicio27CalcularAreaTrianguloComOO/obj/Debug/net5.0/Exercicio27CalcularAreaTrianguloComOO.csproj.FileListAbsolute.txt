@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio27CalcularAreaTrianguloComOO\obj\Debug\net5.0\Exercicio27CalcularAreaTrianguloComOO.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio27CalcularAreaTrianguloComOO\obj\Debug\net5.0\Exercicio27CalcularAreaTrianguloComOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio27CalcularAreaTrianguloComOO\obj\Debug\net5.0\Exercicio27CalcularAreaTrianguloComOO.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio27CalcularAreaTrianguloComOO\obj\Debug\net5.0\Exercicio27CalcularAreaTrianguloComOO.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio27CalcularAreaTrianguloComOO\obj\Debug\net5.0\Exercicio27CalcularAreaTrianguloComOO.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio27CalcularAreaTrianguloComOO\bin\Debug\net5.0\Exercicio27CalcularAreaTrianguloComOO.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio27CalcularAreaTrianguloComOO\bin\Debug\net5.0\Exercicio27CalcularAreaTrianguloComOO.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio27CalcularAreaTrianguloComOO\bin\Debug\net5.0\Exercicio27CalcularAreaTrianguloComOO.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio27CalcularAreaTrianguloComOO\bin\Debug\net5.0\Exercicio27CalcularAreaTrianguloComOO.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio27CalcularAreaTrianguloComOO\bin\Debug\net5.0\Exercicio27CalcularAreaTrianguloComOO.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio27CalcularAreaTrianguloComOO\bin\Debug\net5.0\ref\Exercicio27CalcularAreaTrianguloComOO.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio27CalcularAreaTrianguloComOO\bin\Debug\net5.0\Exercicio27CalcularAreaTrianguloComOO.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio27CalcularAreaTrianguloComOO\obj\Debug\net5.0\Exercicio27CalcularAreaTrianguloComOO.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio27CalcularAreaTrianguloComOO\obj\Debug\net5.0\ref\Exercicio27CalcularAreaTrianguloComOO.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio27CalcularAreaTrianguloComOO\obj\Debug\net5.0\Exercicio27CalcularAreaTrianguloComOO.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio27CalcularAreaTrianguloComOO\obj\Debug\net5.0\Exercicio27CalcularAreaTrianguloComOO.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio7AreaFigurasGeometricas/1.0.0": {
+        "runtime": {
+          "Exercicio7AreaFigurasGeometricas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio7AreaFigurasGeometricas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

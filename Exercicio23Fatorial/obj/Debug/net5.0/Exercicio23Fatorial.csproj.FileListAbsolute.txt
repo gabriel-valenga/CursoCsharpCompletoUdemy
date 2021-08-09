@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio23Fatorial\bin\Debug\net5.0\Exercicio23Fatorial.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio23Fatorial\bin\Debug\net5.0\Exercicio23Fatorial.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio23Fatorial\bin\Debug\net5.0\Exercicio23Fatorial.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio23Fatorial\bin\Debug\net5.0\Exercicio23Fatorial.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio23Fatorial\bin\Debug\net5.0\Exercicio23Fatorial.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio23Fatorial\bin\Debug\net5.0\ref\Exercicio23Fatorial.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio23Fatorial\bin\Debug\net5.0\Exercicio23Fatorial.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio23Fatorial\obj\Debug\net5.0\Exercicio23Fatorial.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio23Fatorial\obj\Debug\net5.0\Exercicio23Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio23Fatorial\obj\Debug\net5.0\Exercicio23Fatorial.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio23Fatorial\obj\Debug\net5.0\Exercicio23Fatorial.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio23Fatorial\obj\Debug\net5.0\Exercicio23Fatorial.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio23Fatorial\obj\Debug\net5.0\Exercicio23Fatorial.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio23Fatorial\obj\Debug\net5.0\ref\Exercicio23Fatorial.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio23Fatorial\obj\Debug\net5.0\Exercicio23Fatorial.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio23Fatorial\obj\Debug\net5.0\Exercicio23Fatorial.genruntimeconfig.cache

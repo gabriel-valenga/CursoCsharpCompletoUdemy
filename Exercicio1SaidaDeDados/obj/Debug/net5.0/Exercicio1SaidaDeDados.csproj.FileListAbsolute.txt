@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio1SaidaDeDados\bin\Debug\net5.0\Exercicio1SaidaDeDados.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio1SaidaDeDados\bin\Debug\net5.0\Exercicio1SaidaDeDados.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio1SaidaDeDados\bin\Debug\net5.0\Exercicio1SaidaDeDados.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio1SaidaDeDados\bin\Debug\net5.0\Exercicio1SaidaDeDados.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio1SaidaDeDados\bin\Debug\net5.0\Exercicio1SaidaDeDados.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio1SaidaDeDados\bin\Debug\net5.0\ref\Exercicio1SaidaDeDados.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio1SaidaDeDados\bin\Debug\net5.0\Exercicio1SaidaDeDados.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio1SaidaDeDados\obj\Debug\net5.0\Exercicio1SaidaDeDados.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio1SaidaDeDados\obj\Debug\net5.0\Exercicio1SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio1SaidaDeDados\obj\Debug\net5.0\Exercicio1SaidaDeDados.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio1SaidaDeDados\obj\Debug\net5.0\Exercicio1SaidaDeDados.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio1SaidaDeDados\obj\Debug\net5.0\Exercicio1SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio1SaidaDeDados\obj\Debug\net5.0\Exercicio1SaidaDeDados.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio1SaidaDeDados\obj\Debug\net5.0\ref\Exercicio1SaidaDeDados.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio1SaidaDeDados\obj\Debug\net5.0\Exercicio1SaidaDeDados.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio1SaidaDeDados\obj\Debug\net5.0\Exercicio1SaidaDeDados.genruntimeconfig.cache

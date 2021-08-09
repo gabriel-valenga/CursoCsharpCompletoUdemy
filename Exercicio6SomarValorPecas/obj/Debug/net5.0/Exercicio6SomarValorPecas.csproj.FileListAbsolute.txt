@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio6SomarValorPecas\obj\Debug\net5.0\Exercicio6SomarValorPecas.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio6SomarValorPecas\obj\Debug\net5.0\Exercicio6SomarValorPecas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio6SomarValorPecas\obj\Debug\net5.0\Exercicio6SomarValorPecas.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio6SomarValorPecas\obj\Debug\net5.0\Exercicio6SomarValorPecas.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio6SomarValorPecas\obj\Debug\net5.0\Exercicio6SomarValorPecas.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio6SomarValorPecas\bin\Debug\net5.0\Exercicio6SomarValorPecas.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio6SomarValorPecas\bin\Debug\net5.0\Exercicio6SomarValorPecas.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio6SomarValorPecas\bin\Debug\net5.0\Exercicio6SomarValorPecas.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio6SomarValorPecas\bin\Debug\net5.0\Exercicio6SomarValorPecas.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio6SomarValorPecas\bin\Debug\net5.0\Exercicio6SomarValorPecas.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio6SomarValorPecas\bin\Debug\net5.0\ref\Exercicio6SomarValorPecas.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio6SomarValorPecas\bin\Debug\net5.0\Exercicio6SomarValorPecas.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio6SomarValorPecas\obj\Debug\net5.0\Exercicio6SomarValorPecas.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio6SomarValorPecas\obj\Debug\net5.0\ref\Exercicio6SomarValorPecas.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio6SomarValorPecas\obj\Debug\net5.0\Exercicio6SomarValorPecas.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio6SomarValorPecas\obj\Debug\net5.0\Exercicio6SomarValorPecas.genruntimeconfig.cache

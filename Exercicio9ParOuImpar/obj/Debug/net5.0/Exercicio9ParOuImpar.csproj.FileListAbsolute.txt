@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio9ParOuImpar\bin\Debug\net5.0\Exercicio9ParOuImpar.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio9ParOuImpar\bin\Debug\net5.0\Exercicio9ParOuImpar.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio9ParOuImpar\bin\Debug\net5.0\Exercicio9ParOuImpar.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio9ParOuImpar\bin\Debug\net5.0\Exercicio9ParOuImpar.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio9ParOuImpar\bin\Debug\net5.0\Exercicio9ParOuImpar.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio9ParOuImpar\bin\Debug\net5.0\ref\Exercicio9ParOuImpar.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio9ParOuImpar\bin\Debug\net5.0\Exercicio9ParOuImpar.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio9ParOuImpar\obj\Debug\net5.0\Exercicio9ParOuImpar.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio9ParOuImpar\obj\Debug\net5.0\Exercicio9ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio9ParOuImpar\obj\Debug\net5.0\Exercicio9ParOuImpar.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio9ParOuImpar\obj\Debug\net5.0\Exercicio9ParOuImpar.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio9ParOuImpar\obj\Debug\net5.0\Exercicio9ParOuImpar.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio9ParOuImpar\obj\Debug\net5.0\Exercicio9ParOuImpar.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio9ParOuImpar\obj\Debug\net5.0\ref\Exercicio9ParOuImpar.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio9ParOuImpar\obj\Debug\net5.0\Exercicio9ParOuImpar.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio9ParOuImpar\obj\Debug\net5.0\Exercicio9ParOuImpar.genruntimeconfig.cache

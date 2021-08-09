@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio24Divisores\obj\Debug\net5.0\Exercicio24Divisores.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio24Divisores\obj\Debug\net5.0\Exercicio24Divisores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio24Divisores\obj\Debug\net5.0\Exercicio24Divisores.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio24Divisores\obj\Debug\net5.0\Exercicio24Divisores.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio24Divisores\obj\Debug\net5.0\Exercicio24Divisores.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio24Divisores\bin\Debug\net5.0\Exercicio24Divisores.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio24Divisores\bin\Debug\net5.0\Exercicio24Divisores.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio24Divisores\bin\Debug\net5.0\Exercicio24Divisores.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio24Divisores\bin\Debug\net5.0\Exercicio24Divisores.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio24Divisores\bin\Debug\net5.0\Exercicio24Divisores.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio24Divisores\bin\Debug\net5.0\ref\Exercicio24Divisores.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio24Divisores\bin\Debug\net5.0\Exercicio24Divisores.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio24Divisores\obj\Debug\net5.0\Exercicio24Divisores.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio24Divisores\obj\Debug\net5.0\ref\Exercicio24Divisores.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio24Divisores\obj\Debug\net5.0\Exercicio24Divisores.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio24Divisores\obj\Debug\net5.0\Exercicio24Divisores.genruntimeconfig.cache

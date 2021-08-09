@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio41DiagonalENegativosMatrizN\bin\Debug\net5.0\Exercicio41DiagonalENegativosMatrizN.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio41DiagonalENegativosMatrizN\bin\Debug\net5.0\Exercicio41DiagonalENegativosMatrizN.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio41DiagonalENegativosMatrizN\bin\Debug\net5.0\Exercicio41DiagonalENegativosMatrizN.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio41DiagonalENegativosMatrizN\bin\Debug\net5.0\Exercicio41DiagonalENegativosMatrizN.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio41DiagonalENegativosMatrizN\bin\Debug\net5.0\Exercicio41DiagonalENegativosMatrizN.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio41DiagonalENegativosMatrizN\bin\Debug\net5.0\ref\Exercicio41DiagonalENegativosMatrizN.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio41DiagonalENegativosMatrizN\bin\Debug\net5.0\Exercicio41DiagonalENegativosMatrizN.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio41DiagonalENegativosMatrizN\obj\Debug\net5.0\Exercicio41DiagonalENegativosMatrizN.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio41DiagonalENegativosMatrizN\obj\Debug\net5.0\Exercicio41DiagonalENegativosMatrizN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio41DiagonalENegativosMatrizN\obj\Debug\net5.0\Exercicio41DiagonalENegativosMatrizN.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio41DiagonalENegativosMatrizN\obj\Debug\net5.0\Exercicio41DiagonalENegativosMatrizN.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio41DiagonalENegativosMatrizN\obj\Debug\net5.0\Exercicio41DiagonalENegativosMatrizN.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio41DiagonalENegativosMatrizN\obj\Debug\net5.0\Exercicio41DiagonalENegativosMatrizN.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio41DiagonalENegativosMatrizN\obj\Debug\net5.0\ref\Exercicio41DiagonalENegativosMatrizN.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio41DiagonalENegativosMatrizN\obj\Debug\net5.0\Exercicio41DiagonalENegativosMatrizN.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio41DiagonalENegativosMatrizN\obj\Debug\net5.0\Exercicio41DiagonalENegativosMatrizN.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio7AreaFigurasGeometricas\obj\Debug\net5.0\Exercicio7AreaFigurasGeometricas.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio7AreaFigurasGeometricas\obj\Debug\net5.0\Exercicio7AreaFigurasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio7AreaFigurasGeometricas\obj\Debug\net5.0\Exercicio7AreaFigurasGeometricas.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio7AreaFigurasGeometricas\obj\Debug\net5.0\Exercicio7AreaFigurasGeometricas.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio7AreaFigurasGeometricas\obj\Debug\net5.0\Exercicio7AreaFigurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio7AreaFigurasGeometricas\bin\Debug\net5.0\Exercicio7AreaFigurasGeometricas.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio7AreaFigurasGeometricas\bin\Debug\net5.0\Exercicio7AreaFigurasGeometricas.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio7AreaFigurasGeometricas\bin\Debug\net5.0\Exercicio7AreaFigurasGeometricas.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio7AreaFigurasGeometricas\bin\Debug\net5.0\Exercicio7AreaFigurasGeometricas.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio7AreaFigurasGeometricas\bin\Debug\net5.0\Exercicio7AreaFigurasGeometricas.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio7AreaFigurasGeometricas\bin\Debug\net5.0\ref\Exercicio7AreaFigurasGeometricas.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio7AreaFigurasGeometricas\bin\Debug\net5.0\Exercicio7AreaFigurasGeometricas.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio7AreaFigurasGeometricas\obj\Debug\net5.0\Exercicio7AreaFigurasGeometricas.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio7AreaFigurasGeometricas\obj\Debug\net5.0\ref\Exercicio7AreaFigurasGeometricas.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio7AreaFigurasGeometricas\obj\Debug\net5.0\Exercicio7AreaFigurasGeometricas.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio7AreaFigurasGeometricas\obj\Debug\net5.0\Exercicio7AreaFigurasGeometricas.genruntimeconfig.cache

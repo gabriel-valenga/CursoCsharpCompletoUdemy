@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio40ListaFuncionariosAumento\bin\Debug\net5.0\Exercicio40ListaFuncionariosAumento.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio40ListaFuncionariosAumento\bin\Debug\net5.0\Exercicio40ListaFuncionariosAumento.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio40ListaFuncionariosAumento\bin\Debug\net5.0\Exercicio40ListaFuncionariosAumento.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio40ListaFuncionariosAumento\bin\Debug\net5.0\Exercicio40ListaFuncionariosAumento.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio40ListaFuncionariosAumento\bin\Debug\net5.0\Exercicio40ListaFuncionariosAumento.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio40ListaFuncionariosAumento\bin\Debug\net5.0\ref\Exercicio40ListaFuncionariosAumento.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio40ListaFuncionariosAumento\bin\Debug\net5.0\Exercicio40ListaFuncionariosAumento.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio40ListaFuncionariosAumento\obj\Debug\net5.0\Exercicio40ListaFuncionariosAumento.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio40ListaFuncionariosAumento\obj\Debug\net5.0\Exercicio40ListaFuncionariosAumento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio40ListaFuncionariosAumento\obj\Debug\net5.0\Exercicio40ListaFuncionariosAumento.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio40ListaFuncionariosAumento\obj\Debug\net5.0\Exercicio40ListaFuncionariosAumento.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio40ListaFuncionariosAumento\obj\Debug\net5.0\Exercicio40ListaFuncionariosAumento.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio40ListaFuncionariosAumento\obj\Debug\net5.0\Exercicio40ListaFuncionariosAumento.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio40ListaFuncionariosAumento\obj\Debug\net5.0\ref\Exercicio40ListaFuncionariosAumento.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio40ListaFuncionariosAumento\obj\Debug\net5.0\Exercicio40ListaFuncionariosAumento.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio40ListaFuncionariosAumento\obj\Debug\net5.0\Exercicio40ListaFuncionariosAumento.genruntimeconfig.cache

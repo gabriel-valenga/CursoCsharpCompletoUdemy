@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio17LerQuadranteXyNaoNulo\obj\Debug\net5.0\Exercicio17LerQuadranteXyNaoNulo.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio17LerQuadranteXyNaoNulo\obj\Debug\net5.0\Exercicio17LerQuadranteXyNaoNulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio17LerQuadranteXyNaoNulo\obj\Debug\net5.0\Exercicio17LerQuadranteXyNaoNulo.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio17LerQuadranteXyNaoNulo\obj\Debug\net5.0\Exercicio17LerQuadranteXyNaoNulo.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio17LerQuadranteXyNaoNulo\obj\Debug\net5.0\Exercicio17LerQuadranteXyNaoNulo.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio17LerQuadranteXyNaoNulo\bin\Debug\net5.0\Exercicio17LerQuadranteXyNaoNulo.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio17LerQuadranteXyNaoNulo\bin\Debug\net5.0\Exercicio17LerQuadranteXyNaoNulo.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio17LerQuadranteXyNaoNulo\bin\Debug\net5.0\Exercicio17LerQuadranteXyNaoNulo.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio17LerQuadranteXyNaoNulo\bin\Debug\net5.0\Exercicio17LerQuadranteXyNaoNulo.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio17LerQuadranteXyNaoNulo\bin\Debug\net5.0\Exercicio17LerQuadranteXyNaoNulo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio17LerQuadranteXyNaoNulo\bin\Debug\net5.0\ref\Exercicio17LerQuadranteXyNaoNulo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio17LerQuadranteXyNaoNulo\bin\Debug\net5.0\Exercicio17LerQuadranteXyNaoNulo.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio17LerQuadranteXyNaoNulo\obj\Debug\net5.0\Exercicio17LerQuadranteXyNaoNulo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio17LerQuadranteXyNaoNulo\obj\Debug\net5.0\ref\Exercicio17LerQuadranteXyNaoNulo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio17LerQuadranteXyNaoNulo\obj\Debug\net5.0\Exercicio17LerQuadranteXyNaoNulo.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio17LerQuadranteXyNaoNulo\obj\Debug\net5.0\Exercicio17LerQuadranteXyNaoNulo.genruntimeconfig.cache

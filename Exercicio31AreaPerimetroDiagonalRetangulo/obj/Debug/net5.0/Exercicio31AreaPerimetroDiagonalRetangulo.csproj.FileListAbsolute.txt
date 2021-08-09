@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio31AreaPerimetroDiagonalRetangulo\obj\Debug\net5.0\Exercicio31AreaPerimetroDiagonalRetangulo.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio31AreaPerimetroDiagonalRetangulo\obj\Debug\net5.0\Exercicio31AreaPerimetroDiagonalRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio31AreaPerimetroDiagonalRetangulo\obj\Debug\net5.0\Exercicio31AreaPerimetroDiagonalRetangulo.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio31AreaPerimetroDiagonalRetangulo\obj\Debug\net5.0\Exercicio31AreaPerimetroDiagonalRetangulo.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio31AreaPerimetroDiagonalRetangulo\obj\Debug\net5.0\Exercicio31AreaPerimetroDiagonalRetangulo.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio31AreaPerimetroDiagonalRetangulo\bin\Debug\net5.0\Exercicio31AreaPerimetroDiagonalRetangulo.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio31AreaPerimetroDiagonalRetangulo\bin\Debug\net5.0\Exercicio31AreaPerimetroDiagonalRetangulo.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio31AreaPerimetroDiagonalRetangulo\bin\Debug\net5.0\Exercicio31AreaPerimetroDiagonalRetangulo.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio31AreaPerimetroDiagonalRetangulo\bin\Debug\net5.0\Exercicio31AreaPerimetroDiagonalRetangulo.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio31AreaPerimetroDiagonalRetangulo\bin\Debug\net5.0\Exercicio31AreaPerimetroDiagonalRetangulo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio31AreaPerimetroDiagonalRetangulo\bin\Debug\net5.0\ref\Exercicio31AreaPerimetroDiagonalRetangulo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio31AreaPerimetroDiagonalRetangulo\bin\Debug\net5.0\Exercicio31AreaPerimetroDiagonalRetangulo.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio31AreaPerimetroDiagonalRetangulo\obj\Debug\net5.0\Exercicio31AreaPerimetroDiagonalRetangulo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio31AreaPerimetroDiagonalRetangulo\obj\Debug\net5.0\ref\Exercicio31AreaPerimetroDiagonalRetangulo.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio31AreaPerimetroDiagonalRetangulo\obj\Debug\net5.0\Exercicio31AreaPerimetroDiagonalRetangulo.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio31AreaPerimetroDiagonalRetangulo\obj\Debug\net5.0\Exercicio31AreaPerimetroDiagonalRetangulo.genruntimeconfig.cache

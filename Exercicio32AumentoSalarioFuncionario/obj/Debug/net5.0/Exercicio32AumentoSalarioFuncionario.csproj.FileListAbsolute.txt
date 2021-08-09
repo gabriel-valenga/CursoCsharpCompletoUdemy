@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio32AumentoSalarioFuncionario\obj\Debug\net5.0\Exercicio32AumentoSalarioFuncionario.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio32AumentoSalarioFuncionario\obj\Debug\net5.0\Exercicio32AumentoSalarioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio32AumentoSalarioFuncionario\obj\Debug\net5.0\Exercicio32AumentoSalarioFuncionario.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio32AumentoSalarioFuncionario\obj\Debug\net5.0\Exercicio32AumentoSalarioFuncionario.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio32AumentoSalarioFuncionario\obj\Debug\net5.0\Exercicio32AumentoSalarioFuncionario.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio32AumentoSalarioFuncionario\bin\Debug\net5.0\Exercicio32AumentoSalarioFuncionario.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio32AumentoSalarioFuncionario\bin\Debug\net5.0\Exercicio32AumentoSalarioFuncionario.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio32AumentoSalarioFuncionario\bin\Debug\net5.0\Exercicio32AumentoSalarioFuncionario.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio32AumentoSalarioFuncionario\bin\Debug\net5.0\Exercicio32AumentoSalarioFuncionario.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio32AumentoSalarioFuncionario\bin\Debug\net5.0\Exercicio32AumentoSalarioFuncionario.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio32AumentoSalarioFuncionario\bin\Debug\net5.0\ref\Exercicio32AumentoSalarioFuncionario.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio32AumentoSalarioFuncionario\bin\Debug\net5.0\Exercicio32AumentoSalarioFuncionario.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio32AumentoSalarioFuncionario\obj\Debug\net5.0\Exercicio32AumentoSalarioFuncionario.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio32AumentoSalarioFuncionario\obj\Debug\net5.0\ref\Exercicio32AumentoSalarioFuncionario.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio32AumentoSalarioFuncionario\obj\Debug\net5.0\Exercicio32AumentoSalarioFuncionario.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio32AumentoSalarioFuncionario\obj\Debug\net5.0\Exercicio32AumentoSalarioFuncionario.genruntimeconfig.cache

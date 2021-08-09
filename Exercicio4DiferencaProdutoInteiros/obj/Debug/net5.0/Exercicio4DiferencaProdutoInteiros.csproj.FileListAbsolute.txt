@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio4DiferencaProdutoInteiros\bin\Debug\net5.0\Exercicio4DiferencaProdutoInteiros.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio4DiferencaProdutoInteiros\bin\Debug\net5.0\Exercicio4DiferencaProdutoInteiros.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio4DiferencaProdutoInteiros\bin\Debug\net5.0\Exercicio4DiferencaProdutoInteiros.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio4DiferencaProdutoInteiros\bin\Debug\net5.0\Exercicio4DiferencaProdutoInteiros.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio4DiferencaProdutoInteiros\bin\Debug\net5.0\Exercicio4DiferencaProdutoInteiros.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio4DiferencaProdutoInteiros\bin\Debug\net5.0\ref\Exercicio4DiferencaProdutoInteiros.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio4DiferencaProdutoInteiros\bin\Debug\net5.0\Exercicio4DiferencaProdutoInteiros.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio4DiferencaProdutoInteiros\obj\Debug\net5.0\Exercicio4DiferencaProdutoInteiros.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio4DiferencaProdutoInteiros\obj\Debug\net5.0\Exercicio4DiferencaProdutoInteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio4DiferencaProdutoInteiros\obj\Debug\net5.0\Exercicio4DiferencaProdutoInteiros.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio4DiferencaProdutoInteiros\obj\Debug\net5.0\Exercicio4DiferencaProdutoInteiros.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio4DiferencaProdutoInteiros\obj\Debug\net5.0\Exercicio4DiferencaProdutoInteiros.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio4DiferencaProdutoInteiros\obj\Debug\net5.0\Exercicio4DiferencaProdutoInteiros.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio4DiferencaProdutoInteiros\obj\Debug\net5.0\ref\Exercicio4DiferencaProdutoInteiros.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio4DiferencaProdutoInteiros\obj\Debug\net5.0\Exercicio4DiferencaProdutoInteiros.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio4DiferencaProdutoInteiros\obj\Debug\net5.0\Exercicio4DiferencaProdutoInteiros.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio5CalculoSalarioFuncionario\bin\Debug\net5.0\Exercicio5CalculoSalarioFuncionario.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio5CalculoSalarioFuncionario\bin\Debug\net5.0\Exercicio5CalculoSalarioFuncionario.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio5CalculoSalarioFuncionario\bin\Debug\net5.0\Exercicio5CalculoSalarioFuncionario.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio5CalculoSalarioFuncionario\bin\Debug\net5.0\Exercicio5CalculoSalarioFuncionario.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio5CalculoSalarioFuncionario\bin\Debug\net5.0\Exercicio5CalculoSalarioFuncionario.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio5CalculoSalarioFuncionario\bin\Debug\net5.0\ref\Exercicio5CalculoSalarioFuncionario.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio5CalculoSalarioFuncionario\bin\Debug\net5.0\Exercicio5CalculoSalarioFuncionario.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio5CalculoSalarioFuncionario\obj\Debug\net5.0\Exercicio5CalculoSalarioFuncionario.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio5CalculoSalarioFuncionario\obj\Debug\net5.0\Exercicio5CalculoSalarioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio5CalculoSalarioFuncionario\obj\Debug\net5.0\Exercicio5CalculoSalarioFuncionario.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio5CalculoSalarioFuncionario\obj\Debug\net5.0\Exercicio5CalculoSalarioFuncionario.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio5CalculoSalarioFuncionario\obj\Debug\net5.0\Exercicio5CalculoSalarioFuncionario.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio5CalculoSalarioFuncionario\obj\Debug\net5.0\Exercicio5CalculoSalarioFuncionario.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio5CalculoSalarioFuncionario\obj\Debug\net5.0\ref\Exercicio5CalculoSalarioFuncionario.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio5CalculoSalarioFuncionario\obj\Debug\net5.0\Exercicio5CalculoSalarioFuncionario.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio5CalculoSalarioFuncionario\obj\Debug\net5.0\Exercicio5CalculoSalarioFuncionario.genruntimeconfig.cache

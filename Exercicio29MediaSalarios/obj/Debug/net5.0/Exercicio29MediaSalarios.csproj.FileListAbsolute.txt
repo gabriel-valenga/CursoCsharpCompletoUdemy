@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio29MediaSalarios\bin\Debug\net5.0\Exercicio29MediaSalarios.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio29MediaSalarios\bin\Debug\net5.0\Exercicio29MediaSalarios.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio29MediaSalarios\bin\Debug\net5.0\Exercicio29MediaSalarios.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio29MediaSalarios\bin\Debug\net5.0\Exercicio29MediaSalarios.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio29MediaSalarios\bin\Debug\net5.0\Exercicio29MediaSalarios.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio29MediaSalarios\bin\Debug\net5.0\ref\Exercicio29MediaSalarios.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio29MediaSalarios\bin\Debug\net5.0\Exercicio29MediaSalarios.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio29MediaSalarios\obj\Debug\net5.0\Exercicio29MediaSalarios.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio29MediaSalarios\obj\Debug\net5.0\Exercicio29MediaSalarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio29MediaSalarios\obj\Debug\net5.0\Exercicio29MediaSalarios.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio29MediaSalarios\obj\Debug\net5.0\Exercicio29MediaSalarios.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio29MediaSalarios\obj\Debug\net5.0\Exercicio29MediaSalarios.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio29MediaSalarios\obj\Debug\net5.0\Exercicio29MediaSalarios.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio29MediaSalarios\obj\Debug\net5.0\ref\Exercicio29MediaSalarios.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio29MediaSalarios\obj\Debug\net5.0\Exercicio29MediaSalarios.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio29MediaSalarios\obj\Debug\net5.0\Exercicio29MediaSalarios.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio2SomaDeInteiros\obj\Debug\net5.0\Exercicio2SomaDeInteiros.csproj.AssemblyReference.cache
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio2SomaDeInteiros\obj\Debug\net5.0\Exercicio2SomaDeInteiros.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio2SomaDeInteiros\obj\Debug\net5.0\Exercicio2SomaDeInteiros.AssemblyInfoInputs.cache
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio2SomaDeInteiros\obj\Debug\net5.0\Exercicio2SomaDeInteiros.AssemblyInfo.cs
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio2SomaDeInteiros\obj\Debug\net5.0\Exercicio2SomaDeInteiros.csproj.CoreCompileInputs.cache
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio2SomaDeInteiros\bin\Debug\net5.0\Exercicio2SomaDeInteiros.exe
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio2SomaDeInteiros\bin\Debug\net5.0\Exercicio2SomaDeInteiros.deps.json
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio2SomaDeInteiros\bin\Debug\net5.0\Exercicio2SomaDeInteiros.runtimeconfig.json
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio2SomaDeInteiros\bin\Debug\net5.0\Exercicio2SomaDeInteiros.runtimeconfig.dev.json
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio2SomaDeInteiros\bin\Debug\net5.0\Exercicio2SomaDeInteiros.dll
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio2SomaDeInteiros\bin\Debug\net5.0\ref\Exercicio2SomaDeInteiros.dll
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio2SomaDeInteiros\bin\Debug\net5.0\Exercicio2SomaDeInteiros.pdb
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio2SomaDeInteiros\obj\Debug\net5.0\Exercicio2SomaDeInteiros.dll
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio2SomaDeInteiros\obj\Debug\net5.0\ref\Exercicio2SomaDeInteiros.dll
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio2SomaDeInteiros\obj\Debug\net5.0\Exercicio2SomaDeInteiros.pdb
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio2SomaDeInteiros\obj\Debug\net5.0\Exercicio2SomaDeInteiros.genruntimeconfig.cache

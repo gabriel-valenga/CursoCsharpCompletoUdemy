@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio30ProdutoEstoque\obj\Debug\net5.0\Exercicio30ProdutoEstoque.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio30ProdutoEstoque\obj\Debug\net5.0\Exercicio30ProdutoEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio30ProdutoEstoque\obj\Debug\net5.0\Exercicio30ProdutoEstoque.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio30ProdutoEstoque\obj\Debug\net5.0\Exercicio30ProdutoEstoque.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio30ProdutoEstoque\obj\Debug\net5.0\Exercicio30ProdutoEstoque.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio30ProdutoEstoque\bin\Debug\net5.0\Exercicio30ProdutoEstoque.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio30ProdutoEstoque\bin\Debug\net5.0\Exercicio30ProdutoEstoque.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio30ProdutoEstoque\bin\Debug\net5.0\Exercicio30ProdutoEstoque.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio30ProdutoEstoque\bin\Debug\net5.0\Exercicio30ProdutoEstoque.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio30ProdutoEstoque\bin\Debug\net5.0\Exercicio30ProdutoEstoque.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio30ProdutoEstoque\bin\Debug\net5.0\ref\Exercicio30ProdutoEstoque.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio30ProdutoEstoque\bin\Debug\net5.0\Exercicio30ProdutoEstoque.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio30ProdutoEstoque\obj\Debug\net5.0\Exercicio30ProdutoEstoque.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio30ProdutoEstoque\obj\Debug\net5.0\ref\Exercicio30ProdutoEstoque.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio30ProdutoEstoque\obj\Debug\net5.0\Exercicio30ProdutoEstoque.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio30ProdutoEstoque\obj\Debug\net5.0\Exercicio30ProdutoEstoque.genruntimeconfig.cache

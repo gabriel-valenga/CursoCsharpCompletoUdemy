@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\exercicio19MostrarImparesDeUmAteX\bin\Debug\net5.0\exercicio19MostrarImparesDeUmAteX.exe
+C:\Projetos\C#\CursoC#Completo2020OO\exercicio19MostrarImparesDeUmAteX\bin\Debug\net5.0\exercicio19MostrarImparesDeUmAteX.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\exercicio19MostrarImparesDeUmAteX\bin\Debug\net5.0\exercicio19MostrarImparesDeUmAteX.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\exercicio19MostrarImparesDeUmAteX\bin\Debug\net5.0\exercicio19MostrarImparesDeUmAteX.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\exercicio19MostrarImparesDeUmAteX\bin\Debug\net5.0\exercicio19MostrarImparesDeUmAteX.dll
+C:\Projetos\C#\CursoC#Completo2020OO\exercicio19MostrarImparesDeUmAteX\bin\Debug\net5.0\ref\exercicio19MostrarImparesDeUmAteX.dll
+C:\Projetos\C#\CursoC#Completo2020OO\exercicio19MostrarImparesDeUmAteX\bin\Debug\net5.0\exercicio19MostrarImparesDeUmAteX.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\exercicio19MostrarImparesDeUmAteX\obj\Debug\net5.0\exercicio19MostrarImparesDeUmAteX.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\exercicio19MostrarImparesDeUmAteX\obj\Debug\net5.0\exercicio19MostrarImparesDeUmAteX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\exercicio19MostrarImparesDeUmAteX\obj\Debug\net5.0\exercicio19MostrarImparesDeUmAteX.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\exercicio19MostrarImparesDeUmAteX\obj\Debug\net5.0\exercicio19MostrarImparesDeUmAteX.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\exercicio19MostrarImparesDeUmAteX\obj\Debug\net5.0\exercicio19MostrarImparesDeUmAteX.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\exercicio19MostrarImparesDeUmAteX\obj\Debug\net5.0\exercicio19MostrarImparesDeUmAteX.dll
+C:\Projetos\C#\CursoC#Completo2020OO\exercicio19MostrarImparesDeUmAteX\obj\Debug\net5.0\ref\exercicio19MostrarImparesDeUmAteX.dll
+C:\Projetos\C#\CursoC#Completo2020OO\exercicio19MostrarImparesDeUmAteX\obj\Debug\net5.0\exercicio19MostrarImparesDeUmAteX.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\exercicio19MostrarImparesDeUmAteX\obj\Debug\net5.0\exercicio19MostrarImparesDeUmAteX.genruntimeconfig.cache

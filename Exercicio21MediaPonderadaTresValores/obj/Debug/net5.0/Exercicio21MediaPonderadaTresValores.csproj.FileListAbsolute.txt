@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio21MediaPonderadaTresValores\obj\Debug\net5.0\Exercicio21MediaPonderadaTresValores.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio21MediaPonderadaTresValores\obj\Debug\net5.0\Exercicio21MediaPonderadaTresValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio21MediaPonderadaTresValores\obj\Debug\net5.0\Exercicio21MediaPonderadaTresValores.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio21MediaPonderadaTresValores\obj\Debug\net5.0\Exercicio21MediaPonderadaTresValores.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio21MediaPonderadaTresValores\obj\Debug\net5.0\Exercicio21MediaPonderadaTresValores.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio21MediaPonderadaTresValores\bin\Debug\net5.0\Exercicio21MediaPonderadaTresValores.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio21MediaPonderadaTresValores\bin\Debug\net5.0\Exercicio21MediaPonderadaTresValores.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio21MediaPonderadaTresValores\bin\Debug\net5.0\Exercicio21MediaPonderadaTresValores.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio21MediaPonderadaTresValores\bin\Debug\net5.0\Exercicio21MediaPonderadaTresValores.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio21MediaPonderadaTresValores\bin\Debug\net5.0\Exercicio21MediaPonderadaTresValores.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio21MediaPonderadaTresValores\bin\Debug\net5.0\ref\Exercicio21MediaPonderadaTresValores.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio21MediaPonderadaTresValores\bin\Debug\net5.0\Exercicio21MediaPonderadaTresValores.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio21MediaPonderadaTresValores\obj\Debug\net5.0\Exercicio21MediaPonderadaTresValores.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio21MediaPonderadaTresValores\obj\Debug\net5.0\ref\Exercicio21MediaPonderadaTresValores.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio21MediaPonderadaTresValores\obj\Debug\net5.0\Exercicio21MediaPonderadaTresValores.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio21MediaPonderadaTresValores\obj\Debug\net5.0\Exercicio21MediaPonderadaTresValores.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio42MatrizNumeroAcimaAbaixoLados/1.0.0": {
+        "runtime": {
+          "Exercicio42MatrizNumeroAcimaAbaixoLados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio42MatrizNumeroAcimaAbaixoLados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio39VetorQuartosHotel\bin\Debug\net5.0\Exercicio39VetorQuartosHotel.exe
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio39VetorQuartosHotel\bin\Debug\net5.0\Exercicio39VetorQuartosHotel.deps.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio39VetorQuartosHotel\bin\Debug\net5.0\Exercicio39VetorQuartosHotel.runtimeconfig.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio39VetorQuartosHotel\bin\Debug\net5.0\Exercicio39VetorQuartosHotel.runtimeconfig.dev.json
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio39VetorQuartosHotel\bin\Debug\net5.0\Exercicio39VetorQuartosHotel.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio39VetorQuartosHotel\bin\Debug\net5.0\ref\Exercicio39VetorQuartosHotel.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio39VetorQuartosHotel\bin\Debug\net5.0\Exercicio39VetorQuartosHotel.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio39VetorQuartosHotel\obj\Debug\net5.0\Exercicio39VetorQuartosHotel.csproj.AssemblyReference.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio39VetorQuartosHotel\obj\Debug\net5.0\Exercicio39VetorQuartosHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio39VetorQuartosHotel\obj\Debug\net5.0\Exercicio39VetorQuartosHotel.AssemblyInfoInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio39VetorQuartosHotel\obj\Debug\net5.0\Exercicio39VetorQuartosHotel.AssemblyInfo.cs
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio39VetorQuartosHotel\obj\Debug\net5.0\Exercicio39VetorQuartosHotel.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio39VetorQuartosHotel\obj\Debug\net5.0\Exercicio39VetorQuartosHotel.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio39VetorQuartosHotel\obj\Debug\net5.0\ref\Exercicio39VetorQuartosHotel.dll
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio39VetorQuartosHotel\obj\Debug\net5.0\Exercicio39VetorQuartosHotel.pdb
+C:\Projetos\C#\CursoC#Completo2020OO\Exercicio39VetorQuartosHotel\obj\Debug\net5.0\Exercicio39VetorQuartosHotel.genruntimeconfig.cache

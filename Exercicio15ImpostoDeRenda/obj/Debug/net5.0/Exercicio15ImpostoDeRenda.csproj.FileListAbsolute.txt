@@ -1,0 +1,16 @@
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio15ImpostoDeRenda\bin\Debug\net5.0\Exercicio15ImpostoDeRenda.exe
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio15ImpostoDeRenda\bin\Debug\net5.0\Exercicio15ImpostoDeRenda.deps.json
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio15ImpostoDeRenda\bin\Debug\net5.0\Exercicio15ImpostoDeRenda.runtimeconfig.json
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio15ImpostoDeRenda\bin\Debug\net5.0\Exercicio15ImpostoDeRenda.runtimeconfig.dev.json
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio15ImpostoDeRenda\bin\Debug\net5.0\Exercicio15ImpostoDeRenda.dll
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio15ImpostoDeRenda\bin\Debug\net5.0\ref\Exercicio15ImpostoDeRenda.dll
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio15ImpostoDeRenda\bin\Debug\net5.0\Exercicio15ImpostoDeRenda.pdb
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio15ImpostoDeRenda\obj\Debug\net5.0\Exercicio15ImpostoDeRenda.csproj.AssemblyReference.cache
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio15ImpostoDeRenda\obj\Debug\net5.0\Exercicio15ImpostoDeRenda.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio15ImpostoDeRenda\obj\Debug\net5.0\Exercicio15ImpostoDeRenda.AssemblyInfoInputs.cache
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio15ImpostoDeRenda\obj\Debug\net5.0\Exercicio15ImpostoDeRenda.AssemblyInfo.cs
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio15ImpostoDeRenda\obj\Debug\net5.0\Exercicio15ImpostoDeRenda.csproj.CoreCompileInputs.cache
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio15ImpostoDeRenda\obj\Debug\net5.0\Exercicio15ImpostoDeRenda.dll
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio15ImpostoDeRenda\obj\Debug\net5.0\ref\Exercicio15ImpostoDeRenda.dll
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio15ImpostoDeRenda\obj\Debug\net5.0\Exercicio15ImpostoDeRenda.pdb
+c:\Projetos\C#\CursoC#Completo2020OO\Exercicio15ImpostoDeRenda\obj\Debug\net5.0\Exercicio15ImpostoDeRenda.genruntimeconfig.cache
